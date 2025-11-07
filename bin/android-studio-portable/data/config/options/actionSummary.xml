@@ -1,0 +1,28 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="EditorBackSpace">
+      <i c="4" l="1716042561358" />
+    </e>
+    <e n="EditorPaste">
+      <i c="3" l="1716042555490" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1716043966828" />
+    </e>
+    <e n="WelcomeScreen.CreateNewProject">
+      <i c="1" l="1716042539634" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="3" l="1716043964848" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1716042975128" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1716042633046" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1716043229936" />
+    </e>
+  </component>
+</application>

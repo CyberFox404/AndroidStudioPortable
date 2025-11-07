@@ -1,0 +1,11 @@
+{
+  "id": "android-studio-portable",
+  "guid": "{EEABCF9C-548F-4E8E-9BDF-1D6C85047515}",
+  "name": "Android Studio Portable",
+  "version": "4.2.1",
+  "release": "17",
+  "date": "2021/05/22 20:46:35",
+  "publisher": "CrazyMax",
+  "url": "https://github.com/portapps/android-studio-portable",
+  "portapps_version": "3.3.0"
+}
